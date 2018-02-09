@@ -1,4 +1,4 @@
-The FM sound (MSX-MUSIC) doesn't sound correctly in a lot of games in a MSX Turbo R in R800 CPU mode.
+The FM sound (**MSX-MUSIC**) doesn't sound correctly in a lot of games in a **MSX Turbo R** in R800 CPU mode.
 
 The sound routine needs delaies when writtng to the MSX-MUSIC ports. 
 
