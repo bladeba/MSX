@@ -4,4 +4,4 @@ The sound routine needs delaies when writtng to the MSX-MUSIC ports.
 
 These pathces also turn ON R800 CPU mode in MSX TUrbo R computers at launch.
 
-Use Lunar IPS to aply these patches from a PC computer.
+Use [Lunar IPS](https://fusoya.eludevisibility.org/lips/) to aply these patches from a PC computer.
