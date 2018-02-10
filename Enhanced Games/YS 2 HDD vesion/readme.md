@@ -19,8 +19,8 @@ This version includes:
 - Multilanguage (Japanese, English, Spanish)
 - You can select PSG original sound or MGSEL sound version
 - Double PSG if you have a MegaflashROM SD cartridge
-- Openning retranslated with the help of 232 Translations
-- Ending translated with the help of 232 Translations
+- Openning retranslated with the help of **232 Translations**
+- Ending translated with the help of **232 Translations**
 - Full Joymega 6 buttons support:
 	
 		[START]	-> Load/Save Menu
