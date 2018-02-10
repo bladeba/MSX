@@ -1,4 +1,5 @@
 **SALAMANDER SMOOTH SCROLL Version 1.00**
+
 only for MSX 2 or higher  (recommended Turbo CPU)                
 ##                                                                               
  This version includes:                                                         
