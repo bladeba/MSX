@@ -1,0 +1,50 @@
+USAS(RC-753) enhanced Version 1.03
+----------------------------------
+por Victor Martinez
+
+-----------------------------------------
+Cambios:
+
+- Misma versión 1.03:
+   ARREGLADO: PSG original no funciona
+
+Versión 1.03:
+- ARREGLADO: la música de cada fase no cambia con los emoticonos 
+  (nuevo tamaño: 3 Mbits)
+
+Versión 1.02:
+- ARREGLADO: hay retraso al inicio de algunas canciones
+- ARREGLADO: la rutina de "introducir PASSWORD" no lee bien el teclado
+
+Versión 1.01:
+- ARREGLADO: cuando abres una puerta, al elegir fase, parpadea
+- ARREGLADO: cuando metes un nuevo PASSWORD, a veces salen caracteres raros
+- ARREGLADO: después del GAME OVER, hay algunos fallos en el juego
+
+-----------------------------------------
+
+  - Musica SCC por Koichiro
+  - Activa TURBOCPU en PANASONIC TR & 2+ y ExpertTurbo
+  - TurboFIX (rutina original de FRS)
+  - Soporte para Joymega: START = pausa (gracias a FX)
+  - Elige al inicio: Idioma, sonido, freq. VDP, trucos...
+  - Mejorada rutina de sprites: más rápida, y doble buffer
+  - Doble PSG si un MegaflashROM SD está insertado (para musica SCC)
+       MegaflashROM SD PSG->Musica,  PSG interno->Efectos de sonido
+       Debe estar en modo "expansor de slots"
+
+Atención!!: Es un ROM de 2Mbit con mapper KONAMI-SCC.
+
+Esta versión debería funcionar en cualquier MSX2 o superior.
+
+Es compatible con el parche de BiFi "Emoticons patch"
+
+Fallos: no es compatible correctamente con el Game Master 2.
+
+
+
+Gracias a: Koichiro, FRS, David Madurga,FX y Manuel Pazos.
+
+
+Espero que os guste!!
+

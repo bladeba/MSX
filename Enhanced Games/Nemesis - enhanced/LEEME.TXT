@@ -1,0 +1,61 @@
+
+
+NEMESIS - GRADIUS Enhanced Version 1.01
+sólo para MSX2 o superior (recomendado Turbo CPU)
+
+
+
+Creditos:
+
+- Basado en la versión parcheada por SHALOM  (gráficos estilo al Arcade)
+- Rutina origianl de TURBO FIX por FRS
+- Nuevos gráficos y colorespor Toni Galvez
+- Voice Set (con SCC en otro slot) por WYZ/ARTRAG
+- Programado por Victor Martinez    
+
+Verás la pantalla de ayuda manteniendo pulsado [H] al arrancar.
+
+Accede a estas opciones manteniendo pulsadas estas teclas al arrancar:
+
+[F] Invierte frecuencia del VDP  (50 Hz <-> 60Hz)
+[V] Voice Set desactivado
+[P] Sonido origianl en PSG forzado (recomendado si no teneis Turbo CPU)
+[I] Invencible (para cobardes)	
+[T] Twinbee (RC-740) simulado en otro slot
+[D] Doble velocidad de los enemigos y balas
+[O] COlores originales de MSX1 durante el juego
+              
+
+* Para el parche IPS utiliza de base este ROM: Salamander (1987) (Konami) (J).rom
+
+SHA-1
+0d459788b6c464b50cbc2436e67a2cef248e0c4a
+
+Finalmente obtendreis una ROM con un tamaño de 256 Kbytes y mapper "KONAMI SCC"
+
+
+* Si quereis jugarlo en el emulador "WebMSX" poned en el nombre del ROM [Konami SCC]
+
+ejemplo:Nemesis[Konami SCC].ROM      y activais el TURBO CPU
+
+
+
+* Fallos:
+
+- Algunos enemigos no se mueven bien con el scoll... Se siente...
+
+* Gracias a:
+
+David Madurga (Trunks): siempre ayudandome... un gran programador...
+FRS: gracias por permitirme usar tu rutina de Turbo FIX... Me encanta!!
+WYZ: gracias por tu ayuda y sobre todo por hacer un Voice SET exclusivo para esta versión
+Toni Galvez: eres un artista!! Gracias por tu colaboración
+Fernando Garcia: un super programador!! Gracias por tu apoyo!!
+Raul Fernandez: mi propio tester!! Gracias!!
+MSX-o-Mizer Team: Un gran compresor de gráficos
+
+ARTRAG: thanks for sharing your "URIDIUM 2" source code. Amazing...
+NYYRIKKI: thanks for sharing your "fade out/fade in" Colors routine
+GRAUWS: I love your MSX info page!! Essential page!!
+
+and the "vintage KONAMI Team"!!
