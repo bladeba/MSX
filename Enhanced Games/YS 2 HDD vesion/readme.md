@@ -31,3 +31,6 @@ This version includes:
 
 - Save states are saved in */SAV* subdirectory
 - You can put your favourite MGSEL songs in */MGS* subdirectory
+##
+
+Thanks to: mmlbox,  232 Translations, David Madurga, Raul Fernandez
