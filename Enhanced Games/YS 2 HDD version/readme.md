@@ -33,4 +33,4 @@ This version includes:
 - You can put your favourite MGSEL songs in */MGS* subdirectory
 ##
 
-Thanks to: mmlbox,  232 Translations, David Madurga, Raul Fernandez
+Thanks to: mmlbox,  232 Translations, David Madurga, Raul Fernandez, FX
