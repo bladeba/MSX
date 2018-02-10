@@ -22,11 +22,12 @@ This version includes:
 - Openning retranslated with the help of 232 Translations
 - Ending translated with the help of 232 Translations
 - Full Joymega 6 buttons support:
-	[START]	-> Load/Save Menu
-	[MODE] 	-> Pause
-	[X]	-> Status
-	[Y]	-> Equipment
-	[Z]	-> Inventory
+	
+		[START]	-> Load/Save Menu
+		[MODE] 	-> Pause
+		[X]	-> Status
+		[Y]	-> Equipment
+		[Z]	-> Inventory
 
 - Save states are saved in /SAV subdirectory
 - You can put your favourite MGSEL songs in /MGS subdirectory
