@@ -6,7 +6,7 @@ by Victor Martinez
 
 ##
 Credits:
-- MGS songs included by [mmlbox](https://github.com/mmlbox)
+- MGSEL songs included by [mmlbox](https://github.com/mmlbox)(PSG+FM songs)
 - File extractor from DSKs files by *David Madurga*
 - Programmed by Victor Martinez    
 ##
