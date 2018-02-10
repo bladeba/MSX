@@ -29,5 +29,5 @@ This version includes:
 		[Y]	-> Equipment
 		[Z]	-> Inventory
 
-- Save states are saved in /SAV subdirectory
-- You can put your favourite MGSEL songs in /MGS subdirectory
+- Save states are saved in */SAV* subdirectory
+- You can put your favourite MGSEL songs in */MGS* subdirectory
