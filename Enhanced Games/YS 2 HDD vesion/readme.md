@@ -1,8 +1,8 @@
-**YS 2 - The final chapter (HDD version) v 1.01**
+**YS 2 - The Final Chapter (HDD version) v 1.01**
 by Victor Martinez
 ##
 - Only for *MSX-DOS2* or higher
-- You need to have the original version to play this game legally!!
+- You need to have the original version to play this game **legally**!!
 
 ##
 Credits:
