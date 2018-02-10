@@ -9,7 +9,7 @@
 ->ROM Loader for **[GR8NET](https://www.msx.org/news/en/gr8net-network-card) cartrdige**
 
 **LOADROM.COM**
-->ROM Loader in RAM. Previous versions were programmed by *David Madurga(Trunks)*
+-> (Version 1.97) ROM Loader in RAM. Previous versions were programmed by *David Madurga(Trunks)*
 
 **ROOKDSK.COM**
 ->Utility for **[ROOKIE Drive](http://rookiedrive.com/en/)** Cartridge. It generates a file to emulate DSKs.
