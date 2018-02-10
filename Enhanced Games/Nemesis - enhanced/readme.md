@@ -1,5 +1,6 @@
 
 **NEMESIS - GRADIUS Enhanced Version 1.01**
+
 only for MSX 2 or higher (recommended Turbo CPU)
 ##
 
