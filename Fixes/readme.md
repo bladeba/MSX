@@ -13,12 +13,12 @@ slot principal y la rutina busca el SCC en cualquier subslot y lo activa.
 
 **MGEAR2-ESP-FRS-SLOTEXPANDIDO.ips**
 
-	- Incluye: Español por Pazos, parche FRS, parche slot expandido
+- Incluye: Español por Pazos, parche FRS, parche slot expandido
 
-	- Permite funcionar el Metal Gear 2 en slot expandido.
+- Permite funcionar el Metal Gear 2 en slot expandido.
 
-	- No es necesario flashearlo con /U (en *MegaflashROM SD*)
+- No es necesario flashearlo con `/U` (en *MegaflashROM SD*)
 
-	- Compatible con `EMUFILE`. Así podreis grabar las partidas en la microSD.
+- Compatible con `EMUFILE`. Así podreis grabar las partidas en la microSD.
 
 	
