@@ -1,6 +1,6 @@
 ## MSX Games FIXES
 
-**Sdsnatcher-disk1.IPS**
+**Sdsnatcher-disk1.IPS** (spanish version only)
 
 - Permite utilizar el SCC del MegaflashROM SD con `EMUFILE`. Seleccionais el
 slot principal y la rutina busca el SCC en cualquier subslot y lo activa.
@@ -11,7 +11,7 @@ slot principal y la rutina busca el SCC en cualquier subslot y lo activa.
 
 
 
-**MGEAR2-ESP-FRS-SLOTEXPANDIDO.ips**
+**MGEAR2-ESP-FRS-SLOTEXPANDIDO.ips** (spanish version only)
 
 - Incluye: Español por Pazos, parche FRS, parche slot expandido
 
