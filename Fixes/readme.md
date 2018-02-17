@@ -11,7 +11,7 @@ slot principal y la rutina busca el SCC en cualquier subslot y lo activa.
 
 
 
-**MGEAR2-ESP-FRS-SLOTEXPANDIDO.ips** (spanish version only)
+**MGEAR2-ESP-FRS-SLOTEXPANDIDO.IPS** (spanish version only)
 
 - Incluye: Español por Pazos, parche FRS, parche slot expandido
 
