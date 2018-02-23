@@ -1,9 +1,12 @@
-**YS 2 - The Final Chapter (HDD version) v 1.01**
+**YS 2 - The Final Chapter (HDD version) v 1.02**
 by Victor Martinez
 ##
 - Only for *MSX-DOS2* or higher
 - You need to have the original version to play this game **legally**!!
-
+##
+Change Log:
+V 1.02:
+- Solved: In Boss 4 the computer is stopped... (Thanks to Ramon C. for the info)
 ##
 Credits:
 - MGSEL songs included by [mmlbox](https://github.com/mmlbox)(PSG+FM songs)
