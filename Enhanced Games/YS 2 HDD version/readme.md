@@ -5,6 +5,7 @@ by Victor Martinez
 - You need to have the original version to play this game **legally**!!
 ##
 Change Log:
+
 V 1.03:
 - Solved: Stability problems after some sound effect and musics. Thanks to Ramon C for the info
 
