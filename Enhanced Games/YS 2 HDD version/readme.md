@@ -1,10 +1,13 @@
-**YS 2 - The Final Chapter (HDD version) v 1.02**
+**YS 2 - The Final Chapter (HDD version) v 1.03**
 by Victor Martinez
 ##
 - Only for *MSX-DOS2* or higher
 - You need to have the original version to play this game **legally**!!
 ##
 Change Log:
+V 1.03:
+- Solved: Stability problems after some sound effect and musics. Thanks to Ramon C for the info
+
 V 1.02:
 - Solved: In Boss 4 the computer is stopped... (Thanks to Ramon C. for the info)
 ##
