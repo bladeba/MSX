@@ -2,7 +2,9 @@
 Read_Joymega:
 ;Stick and buttons A,B,C and START
 ;shared by FX  (Thanks!!)
-
+	
+	di
+	
 	ld      a, 15   ; Read joystick port
         out     (#A0), a        
         in      a, (#A2)
@@ -40,7 +42,9 @@ Read_Joymega:
         out     (#A1), a
         and     11101111b
         out     (#A1), a
-
+	
+	ei
+	
         ld      a, d            ; Check button A
         and     00001100b       ; -1
         ret     nz              ;Back.. not for button A or START
@@ -67,6 +71,7 @@ Read_Joymega_XYZ:;read X,Y Z and MODE buttons
         ld	de,08F23h
 	ld	hl,0EF10h
 
+	di
 	
 	ld      a, 15   ; Read joystick port
         out     (#A0), a        
@@ -109,6 +114,8 @@ loop_6_buttons:
         out     (#A0), a
         in      a, (#A2)	
     	
+	ei
+	
 	;now in A we have the pressed button
 	;077h:Mode
 	;07Bh:X
