@@ -9,7 +9,7 @@ Apply the IPS patch in Nemesis 3 original ROM file. You will obtain a 3Mbit ROM.
 
 This version should work correctly in any MSX2 or higher. For emulation, use [openMSX](https://openmsx.org/) for the best experience.
 
-For [webMSX](http://webmsx.org/), apply the webMSX IPS patch: correct line interrupt and joymega support disabled.
+For [webMSX](http://webmsx.org/), apply the webMSX IPS patch(not the other): correct line interrupt and joymega support disabled.
 
 [Video demostration](https://youtu.be/0IPT3a7ZkYE)
 
