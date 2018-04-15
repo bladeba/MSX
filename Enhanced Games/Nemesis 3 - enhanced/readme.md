@@ -17,14 +17,15 @@ For [webMSX](http://webmsx.org/), apply the webMSX IPS patch(not the other): cor
 This patch implements:
   
   - TurboFIX routine (original routine by [FRS](http://frs.badcoffee.info/))
-  - New player ships GFX by Toni Galvez (amazing new graphics in Intro, ship menu, gameplay...)
-  - Voice Set (SCC in other slot/subslot) by WYZ/ARTRAG.
+  - New player ships GFX by **Toni Galvez** (amazing new graphics in Intro, ship menu, gameplay...)
+  - Voice Set (SCC in other slot/subslot) by **WYZ**/**ARTRAG**.
       - New Voicet SET with better sound quality and a lot of new voices.
       - You can have the ROM of the game and the other SCC for Voice SET in the same slot expander.
       - You can insert the other SCC "in hot" in the INI screen and it'll be detected.
+      - Compatible with the **double SCC** mode in [Flashjacks](http://www.acuariotuning.com/flashjacks)
   
-  - DrumFIX by WYZ
-  - Enables the TURBOCPU in PANASONIC TR & 2+
+  - DrumFIX by **WYZ**
+  - Enables the *TURBOCPU* in PANASONIC TR & 2+
   - In pause mode -> extra options:
       - F2 key: In pause-> change player ship GFX
       - F3 key: In pause-> change gameplay speed
@@ -43,9 +44,9 @@ This patch implements:
 
 
 
-Issues: *NOT* compatible with Game Master 2. Now the game works in IM2 mode...
+Issues: **NOT** compatible with Game Master 2. Now the game works in IM2 mode...
 
-Note: I'ld like to include a retranslation created by "232 translations"... but, in this game, all the texts are stored as
+Note: I'ld like to include a retranslation created by "*232 translations*"... but, in this game, all the texts are stored as
 compresed graphics... so... it'ld be really difficult to be implemented... Sorry... 
 
 
