@@ -43,8 +43,10 @@ This patch implements:
   
 
 - Change log:
-   V1.02: Fixed some issues with Joymega buttons A & START
-   V1.01: Included in INI screen option to enable Joymega adapter. With a normal joypad could be some issues... Thanks to Raul.
+  
+    V1.02: Fixed some issues with Joymega buttons A & START
+   
+    V1.01: Included in INI screen option to enable Joymega adapter. With a normal joypad could be some issues... Thanks to Raul.
 
 Issues: **NOT** compatible with [Game Master](https://en.wikipedia.org/wiki/Konami_Game_Master). Now the game works in IM2 mode...
 
