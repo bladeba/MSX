@@ -1,4 +1,4 @@
-**Nemesis 3 (RC-764) enhanced Version 1.02**
+**Nemesis 3 (RC-764) enhanced Version 1.03**
 
 
 for MSX2 or higher (recommended TurboCPU)
@@ -44,6 +44,11 @@ This patch implements:
 
 - Change log:
   
+    V1.03:  New **David Burton** image created by **FRS**
+            MSX1?? -> Message: "Only for MSX2 or higher"
+            Fixed Joymega routine completely
+            
+    
     V1.02: Fixed some issues with Joymega buttons A & START
    
     V1.01: Included in INI screen option to enable Joymega adapter. With a normal joypad could be some issues... Thanks to Raul.
@@ -51,7 +56,7 @@ This patch implements:
 Issues: **NOT** compatible with [Game Master](https://en.wikipedia.org/wiki/Konami_Game_Master). Now the game works in IM2 mode...
 
 Note: I'ld like to include a retranslation created by "*232 translations*"... but, in this game, all the texts are stored as
-compresed graphics... so... it'ld be really difficult to be implemented... Sorry... 
+compresed graphics... so... it'd be really difficult to be implemented... Sorry... 
 
 
 
