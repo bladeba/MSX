@@ -44,11 +44,12 @@ This patch implements:
 
 - Change log:
   
-    V1.03: - New **David Burton** image created by **FRS**
-           - MSX1?? -> Message: "Only for MSX2 or higher"
-           - Fixed Joymega routine completely
+    V1.03:<br> 
+        - New **David Burton** image created by **FRS**<br>
+        - MSX1 Message Only for MSX2 or higher<br>
+        - Fixed Joymega routine completely<br>
             
-    
+                
     V1.02: Fixed some issues with Joymega buttons A & START
    
     V1.01: Included in INI screen option to enable Joymega adapter. With a normal joypad could be some issues... Thanks to Raul.
