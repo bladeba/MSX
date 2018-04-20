@@ -44,9 +44,9 @@ This patch implements:
 
 - Change log:
   
-    V1.03:  New **David Burton** image created by **FRS**
-            MSX1?? -> Message: "Only for MSX2 or higher"
-            Fixed Joymega routine completely
+    V1.03: - New **David Burton** image created by **FRS**
+           - MSX1?? -> Message: "Only for MSX2 or higher"
+           - Fixed Joymega routine completely
             
     
     V1.02: Fixed some issues with Joymega buttons A & START
