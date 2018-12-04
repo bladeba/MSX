@@ -14,7 +14,8 @@
 **ROOKDSK.COM**
 ->Utility for **[ROOKIE Drive](http://rookiedrive.com/en/)** Cartridge. It generates a file to emulate DSKs.
 
-
+**DI.COM**
+->DIR with **Long File Name** for MSX Nextor.
 
 
 
