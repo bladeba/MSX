@@ -16,9 +16,13 @@ DI [Drive:][path][filemame]   [/option]
 
 Options:
 /?  Show this Help
+
 /H  Show Hidden files
+
 /S  Show System files
+
 /F  Don't show directories
+
 /P  Don't pause
 
 
