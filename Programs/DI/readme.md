@@ -8,7 +8,7 @@ Similar to a "DIR command" that shows **"Long File Name"**
 - Only for **MSX Nextor** by *Nestor Soriano*
 - Compatible with *FAT12* and *FAT16* partitions
 - Put inside a directory in the Path
-
+- It's a .COM, so you can change its name: LDIR, DIL, LONGDIR...
 
 Usage:
 
@@ -32,6 +32,12 @@ Options:
 ##
 Changelog:
 
+V 0.11
+------
+
+ - LFN in directories fixed
+ - Faster search filename routine
+ 
 V 0.10
 ------
 
