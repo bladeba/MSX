@@ -12,7 +12,7 @@ Similar to a "DIR command" that shows **"Long File Name"**
 
 Usage:
 
-DI [Drive:][path][filemame]   [/option]
+DI [Drive:][path][filename]   [/option]
 
 Options:
 
@@ -59,4 +59,4 @@ V 0.08
 V 0.07
 ------
 
- - Shows Long FIle Name if available
+ - Shows Long File Name if available
