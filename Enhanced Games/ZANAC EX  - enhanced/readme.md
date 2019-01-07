@@ -1,4 +1,4 @@
-**ZANAC EX enhanced Version 1.00**
+**ZANAC EX enhanced Version 1.02**
 
 
 for MSX2 or higher (recommended TurboCPU)
@@ -28,3 +28,13 @@ This patch implements:
 
 
 Thanks to: Mstz80ax, PAC, David Madurga
+
+
+Changelog:
+
+V 1.02
+
+ - Fixed: sometimes crash at launch
+ - Fixed: sometimes crash when you defeat a BOSS
+ - Fixed: in some devices, GAME OVER issues
+ 
