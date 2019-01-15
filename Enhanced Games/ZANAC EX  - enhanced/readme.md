@@ -1,4 +1,4 @@
-**ZANAC EX enhanced Version 1.02**
+**ZANAC EX enhanced Version 1.03**
 
 
 for MSX2 or higher (recommended TurboCPU)
@@ -32,6 +32,10 @@ Thanks to: Mstz80ax, PAC, David Madurga
 
 Changelog:
 
+V 1.03
+
+ - Check  first for a complete double PSG in ports 10h,11h,12h
+ 
 V 1.02
 
  - Fixed: sometimes crash at launch
