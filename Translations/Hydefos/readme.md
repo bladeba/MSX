@@ -6,7 +6,7 @@ only for MSX 2 or higher
 
 Credits:
  - Texts translation: *DJANGO*
- - Code & reverse engineering: *Victor Martinez*
+ - Code: *Victor Martinez*
 
 
 Includes:
