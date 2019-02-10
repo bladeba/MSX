@@ -1,8 +1,10 @@
-**Hydefos - English Version 1.00**
+## Hydefos - English Version 1.00
 (1989, Hertz)
 only for MSX 2 or higher
 ##
 
+
+<img src="https://raw.githubusercontent.com/bladeba/MSX/media/Hydefos_PIC_title.png" alt="title" width="800"/>
 
 Credits:
  - Texts translation: *DJANGO*
