@@ -18,6 +18,17 @@ Includes:
   - Translated even the "Hidden Ending"
   - Translated the extra texts in "Command Mode"
 
+Screenshots:
+
+<img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example1.png" alt="example 1" width="400"/> <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example2.png" alt="example 2" width="400"/>
+
+
+<img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example3.png" alt="example 3" width="400"/> <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example3.png" alt="example 3" width="400"/>
+
+
+
+
+
 [Video demostration](https://youtu.be/XGKa9eWNleo)
 
 Keep pressed [SELECT] at boot to force 50 Hz.
