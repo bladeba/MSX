@@ -22,7 +22,6 @@ Screenshots:
 
 <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example1.png" alt="example 1" width="400"/> <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example2.png" alt="example 2" width="400"/>
 
-
 <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example5.png" alt="example 5" width="400"/> <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media/HYDEFOS-example4.png" alt="example 4" width="400"/>
 
 
