@@ -4,7 +4,7 @@ only for MSX 2 or higher
 ##
 
 
-<img src="https://raw.githubusercontent.com/bladeba/MSX/media/Hydefos_PIC_title.png" alt="title" width="800"/>
+<img src="https://raw.githubusercontent.com/bladeba/MSX/media/Hydefos-title.png" alt="title" width="800"/>
 
 Credits:
  - Texts translation: *DJANGO*
