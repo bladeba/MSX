@@ -1,4 +1,4 @@
-## Hydefos - English Version 1.00
+## Hydefos - English Version 1.01
 (1989, Hertz)
 only for MSX 2 or higher
 ##
@@ -53,3 +53,17 @@ Keep pressed [SELECT] at boot to force 50 Hz.
           V: Unknown (must be pressed under some condition)
           
 
+**Changelog:**
+
+Version 1.01:
+  - Translated a text in Disc 2: 
+  "Thank you very much for playing Hydefos
+  send remarks if there..."
+  
+  - Changed in the Ending:
+  "Comandant Fars is crazy"
+  by
+  "COMMANDER PHALLUS IS MAD"
+  
+  (Thanks to *John Hassink* for his help)
+  
