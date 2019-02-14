@@ -55,7 +55,7 @@ Keep pressed [SELECT] at boot to force 50 Hz.
 
 **Changelog:**
 
-Version 1.01:
+Version 1.01: (Thanks to *John Hassink* for his help)
   - Translated a text in Disc 2: 
   "Thank you very much for playing Hydefos
   send remarks if there..."
@@ -65,5 +65,5 @@ Version 1.01:
   by
   "COMMANDER PHALLUS IS MAD"
   
-  (Thanks to *John Hassink* for his help)
+
   
