@@ -61,7 +61,7 @@ Version 1.01: (Thanks to *John Hassink* for his help)
   send remarks if there..."
   
   - Changed in the Ending:
-  "Comandant Fars is crazy"
+  "Commandant Fars is crazy"
   by
   "COMMANDER PHALLUS IS MAD"
   
