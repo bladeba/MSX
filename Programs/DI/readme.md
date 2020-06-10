@@ -32,6 +32,11 @@ Options:
 ##
 Changelog:
 
+V 0.20
+------
+
+ - Faster print routine
+
 V 0.11
 ------
 
