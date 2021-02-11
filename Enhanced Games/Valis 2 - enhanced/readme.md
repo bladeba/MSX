@@ -1,5 +1,6 @@
-Valis II -  The Fantasm Soldier (English + Drumkit patch)
+**Valis II -  The Fantasm Soldier (English + Drumkit patch)**
 by Victor Martinez
+##
 
 99% of this project:
 	- English Version :  Manuel Pazos and Theo Wilderbeek
@@ -18,3 +19,5 @@ by Victor Martinez
 		Z-> no Turn ON TURBOCPU
 		I-> Immortality (not full)
 		D-> force Double PSG
+
+Apply these patches in the same japanese version that were used for english version or directly on the English version.
