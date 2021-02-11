@@ -22,3 +22,6 @@ by Victor Martinez
 		D-> force Double PSG
 
 Apply these patches in the same japanese version that were used for english version or directly on the English version.
+
+
+Thanks to "Pollagordeos MSX" team for testing...
