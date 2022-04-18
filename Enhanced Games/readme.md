@@ -6,5 +6,5 @@ I'll try to do my best with these great MSX games!!
 
 If you like my job and want to show your
 appreciation by donating any amount to my
-PayPal: [bladeba1977@gmail.com](https://paypal.me/bladeba1977)
+**PayPal**: [bladeba1977@gmail.com](https://paypal.me/bladeba1977)
 
