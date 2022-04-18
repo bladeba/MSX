@@ -62,3 +62,9 @@ compresed graphics... so... it'd be really difficult to be implemented... Sorry.
 
 
 Thanks to: David Madurga,Toni Galvez, WYZ, FRS, FX and Vampier... and more and more people...
+
+If you like my job you can show your
+appreciation by donating any amount to my
+**PayPal** account: [bladeba1977@gmail.com](https://paypal.me/bladeba1977)
+
+
