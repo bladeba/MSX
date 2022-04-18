@@ -9,4 +9,4 @@ Enjoy it !
 
 If you like my job and want to show your
 appreciation by donating any amount to my
-PayPal to **bladeba1977@gmail.com**
+PayPal: **bladeba1977@gmail.com**
