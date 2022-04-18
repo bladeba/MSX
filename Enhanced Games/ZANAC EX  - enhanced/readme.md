@@ -29,6 +29,12 @@ This patch implements:
 
 Thanks to: Mstz80ax, PAC, David Madurga
 
+If you like my job you can show your
+appreciation by donating any amount to my
+**PayPal** account: [bladeba1977@gmail.com](https://paypal.me/bladeba1977)
+
+
+
 
 Changelog:
 
