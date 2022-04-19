@@ -7,7 +7,7 @@ only for MSX 2 or higher (with 128 Kbytes of VRAM)
 Credits:
 - Programmed by Victor Martinez & David Madurga
 - Original TURBO FIX Routine by FRS
-- New graphics and colours by Toni Galvez
+- New graphics and colours by [Toni Galvez](https://twitter.com/TonimanGalvez)
 - SCC music by Jan van Valburg
 - Voice Set by WYZ/ARTRAG/TODOJINGLES
 - Retranslation by 232 translations
