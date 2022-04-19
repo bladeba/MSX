@@ -6,8 +6,8 @@ only for MSX 2 or higher (with 128 Kbytes of VRAM)
 
 Credits:
 - Programmed by Victor Martinez & David Madurga
-- Original TURBO FIX Routine and Joymega routines by [FRS](http://frs.badcoffee.info/)
 - New graphics and colours by [Toni Galvez](https://twitter.com/TonimanGalvez)
+- Original TURBO FIX Routine and Joymega routines by [FRS](http://frs.badcoffee.info/)
 - SCC music by Jan van Valburg
 - Voice Set by WYZ/ARTRAG/TODOJINGLES
 - Retranslation by 232 translations
