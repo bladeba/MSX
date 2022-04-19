@@ -32,10 +32,11 @@ Finally you will obtain a ROM with a size of 512 Kbytes and **KONAMI SCC Mapper*
 
 example:Galious[KonamiSCC].ROM     
 
-
+##
 
 Issues: Not compatible with Game Master
 
+##
 Thanks to:
 
   - Fernando Garcia: He helped us with the "fast music replayer" and "BOSS movement routines"...a super programmer!! Thanks for all!!
@@ -44,7 +45,7 @@ Thanks to:
   - Toni Galvez: you're an artist!! Thanks for your cooperation
   - the beta testers... Thanks!!
   - and the "vintage KONAMI Team"!!
-
+##
 If you like my job you can show your
 appreciation by donating any amount to my
 **PayPal** account: [bladeba1977@gmail.com](https://paypal.me/bladeba1977)
