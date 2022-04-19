@@ -24,7 +24,7 @@ SHA-1
 e87e5431ea2ba6cd367ad8bfaa859dae5b297ad4	
 
 
-Finally you will obtain a ROM with a size of 512 Kbytes and KONAMI SCC Mapper
+Finally you will obtain a ROM with a size of 512 Kbytes and **KONAMI SCC Mapper**
 
 
 * If you want to play it in Web MSX put in the name of the ROM [KonamiSCC]
@@ -33,18 +33,16 @@ example:Galious[KonamiSCC].ROM
 
 
 
-* Issues: Not compatible with Game Master
+Issues: Not compatible with Game Master
 
-* Thanks to:
+Thanks to:
 
   - Fernando Garcia: He helped us with the "fast music replayer" and "BOSS movement routines"...a super programmer!! Thanks for all!!
   - FRS: thanks for allow me to use your Turbo FIX routine... I love it!!
   - WYZ: thanks for all your help and trust
   - Toni Galvez: you're an artist!! Thanks for your cooperation
-
-and the beta testers... Thanks!!
-
-and the "vintage KONAMI Team"!!
+  - the beta testers... Thanks!!
+  - and the "vintage KONAMI Team"!!
 
 If you like my job you can show your
 appreciation by donating any amount to my
