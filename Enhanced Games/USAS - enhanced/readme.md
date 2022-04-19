@@ -26,6 +26,13 @@ Issues: not full compatible with Game Master 2.
 
 Thanks to: Koichiro, FRS, David Madurga,FX and Manuel Pazos.
 
+
+##
+If you like my job you can show your
+appreciation by donating any amount to my
+**PayPal** account: [bladeba1977@gmail.com](https://paypal.me/bladeba1977)
+
+##
 I hope you like it!!
 ##
 *Change log*:
