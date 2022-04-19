@@ -6,7 +6,7 @@ only for MSX 2 or higher (with 128 Kbytes of VRAM)
 
 Credits:
 - Programmed by Victor Martinez & David Madurga
-- Original TURBO FIX Routine by [FRS](http://frs.badcoffee.info/)
+- Original TURBO FIX Routine and Joymega routines by [FRS](http://frs.badcoffee.info/)
 - New graphics and colours by [Toni Galvez](https://twitter.com/TonimanGalvez)
 - SCC music by Jan van Valburg
 - Voice Set by WYZ/ARTRAG/TODOJINGLES
@@ -35,6 +35,13 @@ example:Galious[KonamiSCC].ROM
 ##
 
 Issues: Not compatible with Game Master
+
+##
+Notes:
+  - Hold **TAB** to throttle the game speed (by FRS)
+  - In **Item Menu** press CTRL to toggle descriptions (weapons or items)
+  - There is a special way to listen all the musics... I hope you can find it.... ;-)
+  
 
 ##
 Thanks to:
