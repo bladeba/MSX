@@ -33,16 +33,14 @@ example:Galious[KonamiSCC].ROM
 
 
 
-* Issues:
-
-- Not compatible with Game Master
+* Issues: Not compatible with Game Master
 
 * Thanks to:
 
-- Fernando Garcia: He helped us with the "fast music replayer" and "BOSS movement routines"...a super programmer!! Thanks for all!!
-- FRS: thanks for allow me to use your Turbo FIX routine... I love it!!
-- WYZ: thanks for all your help and trust
-- Toni Galvez: you're an artist!! Thanks for your cooperation
+  - Fernando Garcia: He helped us with the "fast music replayer" and "BOSS movement routines"...a super programmer!! Thanks for all!!
+  - FRS: thanks for allow me to use your Turbo FIX routine... I love it!!
+  - WYZ: thanks for all your help and trust
+  - Toni Galvez: you're an artist!! Thanks for your cooperation
 
 and the beta testers... Thanks!!
 
