@@ -47,6 +47,8 @@ Issues: Not compatible with Game Master
 
 ##
 Notes:
+  - The gameplay is exactly the same as the original game (but smoother...)
+  - Now the game is in screen 5 mode. All graphics were remade.
   - Hold **TAB** to throttle the game speed (by FRS)
   - In **Item Menu** press CTRL to toggle descriptions (weapons or items)
   - There is a special way to listen all the musics... I hope you can find it.... ;-)
