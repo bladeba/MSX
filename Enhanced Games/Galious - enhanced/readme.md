@@ -22,7 +22,7 @@ Credits:
 - New graphics and colours by [Toni Galvez](https://twitter.com/TonimanGalvez)
 - SCC music by [Jan van Valburg](https://www.msx.org/users/janvv)
 - Original TURBO FIX Routine and Joymega routines by [FRS](http://frs.badcoffee.info/)
-- Voice Set by WYZ/ARTRAG/TODOJINGLES
+- Voice Set by WYZ/ARTRAG/[TODOJINGLES](https://todojingles.com/)
 - Retranslation by 232 translations
 
 ##
