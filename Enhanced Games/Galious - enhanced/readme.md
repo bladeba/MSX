@@ -34,7 +34,7 @@ Credits:
 
 For IPS Patch use this original ROM: 
 
-SHA-1
+**SHA-1**
 4d51d3c5036311392b173a576bc7d91dc9fed6cb	
 
 
