@@ -35,7 +35,7 @@ Credits:
 For IPS Patch use this original ROM: 
 
 SHA-1
-e87e5431ea2ba6cd367ad8bfaa859dae5b297ad4	
+4d51d3c5036311392b173a576bc7d91dc9fed6cb	
 
 
 Finally you will obtain a ROM with a size of 512 Kbytes and **KONAMI SCC Mapper**
