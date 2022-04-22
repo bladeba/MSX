@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media//Galious Enhanced screenshoots/ROOM 8F MSX1.png" alt="1" width="400"/> <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media//Galious Enhanced screenshoots/ROOM 8F MSX 2.png" alt="1" width="400"/> 
 
-<img src="https://raw.githubusercontent.com/bladeba/MSX/master/media//Galious Enhanced screenshoots/BOSS 1 MSX 1.JPG" alt="2" width="400"/> <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media//Galious Enhanced screenshoots/BOSS 1 MSX 2.png" alt="3" width="400"/> 
+<img src="https://raw.githubusercontent.com/bladeba/MSX/master/media//Galious Enhanced screenshoots/BOSS 1 MSX 1.png" alt="2" width="400"/> <img src="https://raw.githubusercontent.com/bladeba/MSX/master/media//Galious Enhanced screenshoots/BOSS 1 MSX 2.png" alt="3" width="400"/> 
 
 
 only for MSX 2 or higher (with 128 Kbytes of VRAM)
