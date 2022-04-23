@@ -62,7 +62,7 @@ Notes:
 ##
 Thanks to:
 
-  - Fernando Garcia: He helped us with the "*fast music replayer*" and "*BOSS movement*" routines...a super programmer!! Thanks for all!!
+  - Fernando Garcia: He helped us with the "*fast music replayer*" and "*BOSS movement*" routines... You're a super programmer!! Thanks for all!!
   - FRS: thanks for allow me to use your Turbo FIX routine... I love it!!
   - WYZ: thanks for all your help and trust
   - Toni Galvez: you're an artist!! Thanks for your cooperation
