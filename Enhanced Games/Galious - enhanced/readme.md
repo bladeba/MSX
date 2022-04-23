@@ -24,7 +24,7 @@ Credits:
 - Original TURBO FIX Routine and Joymega routines by [FRS](http://frs.badcoffee.info/)
 - Voice Set by WYZ/ARTRAG/[TODOJINGLES](https://todojingles.com/)
 - Retranslation by [232 translations](http://www.msxtranslations.com/translations.php)
-- [NataliaPC](https://twitter.com/ishwin74) for yor plugin to convert to MSX images for [Aseprite](https://community.aseprite.org/t/extension-msx-image-file-import/8655)
+
 
 ##
 
@@ -66,6 +66,7 @@ Thanks to:
   - FRS: thanks for allow me to use your Turbo FIX routine... I love it!!
   - WYZ: thanks for all your help and trust
   - Toni Galvez: you're an artist!! Thanks for your cooperation
+  - [NataliaPC](https://twitter.com/ishwin74) Thanks for yor plugin to convert to MSX images for [Aseprite](https://community.aseprite.org/t/extension-msx-image-file-import/8655)
   - the beta testers... Thanks!!
   - and the "vintage KONAMI Team"!!
 ##
