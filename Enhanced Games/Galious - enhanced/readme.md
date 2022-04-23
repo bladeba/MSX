@@ -23,7 +23,7 @@ Credits:
 - SCC music by [Jan van Valburg](https://www.msx.org/users/janvv)
 - Original TURBO FIX Routine and Joymega routines by [FRS](http://frs.badcoffee.info/)
 - Voice Set by WYZ/ARTRAG/[TODOJINGLES](https://todojingles.com/)
-- Retranslation by 232 translations
+- Retranslation by [232 translations](http://www.msxtranslations.com/translations.php=
 - [NataliaPC](https://twitter.com/ishwin74) for yor plugin to convert to MSX images for [Aseprite](https://community.aseprite.org/t/extension-msx-image-file-import/8655)
 
 ##
