@@ -24,6 +24,7 @@ Credits:
 - Original TURBO FIX Routine and Joymega routines by [FRS](http://frs.badcoffee.info/)
 - Voice Set by WYZ/ARTRAG/[TODOJINGLES](https://todojingles.com/)
 - Retranslation by 232 translations
+- [NataliaPC](https://twitter.com/ishwin74) for yor plugin to convert to MSX images for [Aseprite](https://community.aseprite.org/t/extension-msx-image-file-import/8655)
 
 ##
 
