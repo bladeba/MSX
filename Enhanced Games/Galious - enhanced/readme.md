@@ -42,7 +42,7 @@ For IPS Patch use this original ROM:
 Finally you will obtain a ROM with a size of 512 Kbytes and **KONAMI SCC Mapper**
 
 
-* If you want to play it in Web MSX put in the name of the ROM [KonamiSCC]
+* If you want to play it in [webMSX](http://webmsx.org/) put in the name of the ROM [KonamiSCC]
 
 example:Galious[KonamiSCC].ROM     
 
