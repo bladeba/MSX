@@ -52,7 +52,7 @@ Issues: Not compatible with Game Master
 
 ##
 Notes:
-  - For emulation, use [openMSX](https://openmsx.org/) or [webMSX](http://webmsx.org/) or some effects won´t work correctly.
+  - For emulation, use [openMSX](https://openmsx.org/) or [webMSX](http://webmsx.org/)... or some effects won´t work correctly.
   - The gameplay is exactly the same as the original game (but smoother...)
   - Now the game is in screen 5 mode. All graphics were remade.
   - Hold **TAB** to throttle the game speed (by FRS)
