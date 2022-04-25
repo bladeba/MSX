@@ -54,6 +54,14 @@ Issues: Not compatible with Game Master
 
 ##
 Notes:
+  
+  - You can edit the ROM after patched with this:
+      ------------------------------------------------------------------
+      Values forced in ROM at BOOT. Position: 0019h (0025d) Edit with an HEX editor after patch...
+        forced_Double_PSG_in_ROM:          db  0 ;0=Check available, 1=Forced Available
+        forced_continue_available_in_ROM:  db  0 ;0=no, 1=Yes
+        forced_language_in_ROM:            db  0 ;0=Default BIOS, 1=Japanese, 2=English, 3=Spanish
+
   - For emulation, use [openMSX](https://openmsx.org/) or [webMSX](http://webmsx.org/)... or some effects won´t work correctly.
   - The gameplay is exactly the same as the original game (but smoother...)
   - Now the game is in screen 5 mode. All graphics were remade.
