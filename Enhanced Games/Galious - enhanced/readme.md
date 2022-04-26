@@ -35,7 +35,7 @@ Changelog:
    
    **V 1.02** :    
    
-               - Fixed: When there is a special item in that room and you die, then after the item doesn´t apear correctly.
+               - Fixed: When there is a special item in that room and you die, then the item doesn´t appear correctly.
    
                - Fixed: Sometimes the *World X* or *Castle* texts in scoreboard don't show correctly.
    
