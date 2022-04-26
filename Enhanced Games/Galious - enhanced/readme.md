@@ -1,4 +1,4 @@
-**The Maze of Galious Enhanced Version 1.00**
+**The Maze of Galious Enhanced Version 1.01**
 
 only for MSX 2 or higher (with 128 Kbytes of VRAM)
 ##
@@ -30,10 +30,12 @@ Credits:
 
 ##
 
+Changelog:
 
+   V 1.01 :   - Fixed some texts.
 
               
-
+##
 
 For IPS Patch use this original ROM: 
 
