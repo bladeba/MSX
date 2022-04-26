@@ -1,4 +1,4 @@
-**The Maze of Galious Enhanced Version 1.01**
+**The Maze of Galious Enhanced Version 1.02**
 
 only for MSX 2 or higher (with 128 Kbytes of VRAM)
 ##
@@ -32,7 +32,11 @@ Credits:
 
 Changelog:
 
-   V 1.01 :   - Fixed some texts.
+   
+   V 1.02 :    - Fixed: When there is a special item in that room and you die, then after the item doesn´t apear correctly.
+               - Fixed: Sometimes the *World X* or *Castle* texts in scoreboard don't show correctly.
+   
+   V 1.01 :    - Fixed: some texts.
 
               
 ##
