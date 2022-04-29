@@ -37,7 +37,7 @@ Changelog:
    
                - Fixed: Some special items don't appear in screen.
                
-               - Fixed: In "Castle Song" there was a instrument very annoying, we have cut that high frequency. Commented by **Wolf**
+               - Fixed: In "Castle Song" there was a instrument very annoying, we have cut that high frequency. Commented by Wolf
                   
                - Added: Intro and Outro translated to Japanese, Thanks to [Takamichi Suzukawa](https://www.msx.org/users/takamichi)
                
