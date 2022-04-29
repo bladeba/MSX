@@ -39,7 +39,7 @@ Changelog:
                
                - Fixed: In "Castle Song" there was a instrument very annoying, we have cut that high frequency. Commented by Wolf
                   
-               - Added: Intro and Outro translated to Japanese, Thanks to [Takamichi Suzukawa](https://www.msx.org/users/takamichi)
+               - Added: Intro and Outro translated to Japanese, Thanks to Takamichi Suzukawa.
                
                - Added: Popolon and Aphrodite description translated to Japanese.
                
