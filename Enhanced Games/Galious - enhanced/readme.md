@@ -1,4 +1,4 @@
-**The Maze of Galious Enhanced Version 1.02**
+**The Maze of Galious Enhanced Version 1.03**
 
 only for MSX 2 or higher (with 128 Kbytes of VRAM)
 ##
@@ -32,10 +32,20 @@ Credits:
 
 Changelog:
 
+    
+   **V 1.03** :    
    
+               - Fixed: Some special items don't appear in screen.
+               
+               - Fixed: In "Castle Song" there was a instrument very annoying, we have cut that high frequency. Commented by **Wolf**
+                  
+               - Added: Intro and Outro translated to Japanese, Thanks to [Takamichi Suzukawa](https://www.msx.org/users/takamichi)
+               
+               - Added: Popolon and Aphrodite description translated to Japanese.
+               
    **V 1.02** :    
    
-               - Fixed: When there is a special item in that room and you die, then the item doesn´t appear correctly.
+               - Fixed: When there is a special item in that room and you die, then the item doesn't appear correctly.
    
                - Fixed: Sometimes the *World X* or *Castle* texts in scoreboard don't show correctly.
    
