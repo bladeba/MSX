@@ -32,8 +32,15 @@ Credits:
 
 Changelog:
 
-    
-   **V 1.03** :    
+  **V 1.04** :    
+   
+               - Fixed: Collision of the sword with some elements is not detected.
+               
+               - Added: A few black lines under the font in Intro and Outro. Commented by Wolf
+                  
+               - Several small bug fixes.
+   
+  **V 1.03** :    
    
                - Fixed: Some special items don't appear in screen.
                
