@@ -1,4 +1,4 @@
-**The Maze of Galious Enhanced Version 1.03**
+**The Maze of Galious Enhanced Version 1.04**
 
 only for MSX 2 or higher (with 128 Kbytes of VRAM)
 ##
