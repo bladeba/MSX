@@ -1,0 +1,100 @@
+{
+  "original_sha1": "4d51d3c5036311392b173a576bc7d91dc9fed6cb",
+  "enhanced_sha256": "cdeaa916d198a3ca9891076eb79e05709876fa7ce18dcd929e76f1cf25403f53",
+  "output_sha256": "b81f22ab05fd059e6c1e9d71a8ce2b3d41ba36106fea90e19ada37aadf63c936",
+  "ips_sha256": "31f5e4f0b677b255c82c0950a41be03b17853f9b14ad8e6877db250d25044824",
+  "rom_bytes": 524288,
+  "ips_bytes": 5107,
+  "prior_fixes": {
+    "font_bank": 12,
+    "font_rle_bytes": 3615,
+    "private_glyphs": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "dialogue_code_offsets": [
+      127265,
+      127266,
+      127273,
+      127274,
+      127280,
+      127281,
+      127349,
+      127350,
+      127357,
+      127358,
+      127364,
+      127365
+    ],
+    "choice_destination_offset": 127756,
+    "fixed_dialogues": [
+      0,
+      2,
+      13
+    ]
+  },
+  "review_fixes": [
+    {
+      "glyph_slot": 123,
+      "input_code": 140,
+      "previous_glyph": 79,
+      "user_png_sha256": "3f440b55ecfcde9602ed5422b7f7ecceb9c6f24ad274bb96bfe8835d5403205c",
+      "font_rle_bytes": 3634,
+      "missing_small_ya": true
+    },
+    {
+      "menu": 0,
+      "old_bytes": 81,
+      "new_bytes": 79
+    },
+    {
+      "menu": 3,
+      "old_bytes": 61,
+      "new_bytes": 61
+    },
+    {
+      "menu": 4,
+      "old_bytes": 63,
+      "new_bytes": 63
+    },
+    {
+      "menu": 5,
+      "old_bytes": 60,
+      "new_bytes": 60
+    },
+    {
+      "menu": 6,
+      "old_bytes": 75,
+      "new_bytes": 73
+    },
+    {
+      "menu": 7,
+      "old_bytes": 74,
+      "new_bytes": 57
+    },
+    {
+      "english_alias_slots": [
+        30,
+        31
+      ],
+      "resource_code_sites": [
+        128011,
+        128012,
+        128019,
+        128020,
+        128030,
+        128031
+      ],
+      "farewell_message": 16,
+      "farewell_comma_offset": 127829
+    }
+  ],
+  "menu_entry_addresses_preserved": true,
+  "english_spanish_menu_text_preserved": true,
+  "scope": "Enhanced Japanese text/font review; no MD extensions",
+  "input_files_preserved": true
+}

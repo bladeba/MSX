@@ -1,0 +1,39 @@
+{
+  "original_sha1": "4d51d3c5036311392b173a576bc7d91dc9fed6cb",
+  "enhanced_sha256": "cdeaa916d198a3ca9891076eb79e05709876fa7ce18dcd929e76f1cf25403f53",
+  "output_sha256": "5d85cfc159acd89f5c82b990ddaacc5f5a68df48ea5f24b4c920d4bd3a070253",
+  "ips_sha256": "b6b9bb0748dc56de39bbff7063ca1a139883b25e889c05f89e2e4e29b074441b",
+  "rom_bytes": 524288,
+  "ips_bytes": 4219,
+  "input_files_preserved": true,
+  "font_bank": 12,
+  "font_rle_bytes": 3615,
+  "private_glyphs": [
+    117,
+    118,
+    119,
+    120,
+    121,
+    122
+  ],
+  "dialogue_code_offsets": [
+    127265,
+    127266,
+    127273,
+    127274,
+    127280,
+    127281,
+    127349,
+    127350,
+    127357,
+    127358,
+    127364,
+    127365
+  ],
+  "choice_destination_offset": 127756,
+  "fixed_dialogues": [
+    0,
+    2,
+    13
+  ]
+}

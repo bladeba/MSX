@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "canonical_enhanced_sha256": "cdeaa916d198a3ca9891076eb79e05709876fa7ce18dcd929e76f1cf25403f53",
+  "corrected_enhanced_sha256": "b81f22ab05fd059e6c1e9d71a8ce2b3d41ba36106fea90e19ada37aadf63c936",
+  "ips_sha256": "31f5e4f0b677b255c82c0950a41be03b17853f9b14ad8e6877db250d25044824",
+  "ips_roundtrip": true,
+  "reproducible_from_uploaded_helpers": true,
+  "actual_source_locale_streams": 24,
+  "MSX2_cold_boot_font_loaded": true,
+  "actual_source_V9938_screens": 11,
+  "pixel_differences": 0,
+  "menu_EN_ES_text_unchanged": true,
+  "original_menu_starts_and_staff_preserved": true,
+  "source_reports": {
+    "source-01": {
+      "sha256": "83c7ebe151998eaae54c18195fcf7afdbca5dd8876855ddf6efe678be4afd81e"
+    },
+    "msx-vdp-01": {
+      "sha256": "95fda53ec3a6dfdf5108c3fea627a9ddb92a9fccac232567f7ba4b7917cd879d"
+    }
+  },
+  "user_glyph_png_sha256": "3f440b55ecfcde9602ed5422b7f7ecceb9c6f24ad274bb96bfe8835d5403205c",
+  "ordinary_play_complete": false,
+  "physical_hardware_tested": false
+}
